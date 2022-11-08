@@ -1,1 +1,3 @@
 # Hello-World.html
+
+Im Ethan I like to play some sports and video games. I am a student and in High School. I like to make things like art. I also like the make food.
